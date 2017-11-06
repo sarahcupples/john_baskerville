@@ -4,7 +4,7 @@ IXD101 Interaction Design Fundamentals
 John Baskerville
 ----------------
 
-- [John Baskerville 01](https://sarahcupples.github.io/john_baskerville/)
+- [John Baskerville 01](https://sarahcupples.github.io/john_baskerville/baskerville.html)
 
 
 History of Type
