@@ -13,3 +13,6 @@ History of Type
 ---------------
 
 - [History of Type 01 - Markup](https://sarahcupples.github.io/john_baskerville/type.html)
+- [List of Typefaces 02 - Markup](https://sarahcupples.github.io/john_baskerville/list.html)
+
+
