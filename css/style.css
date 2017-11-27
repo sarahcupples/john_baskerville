@@ -102,5 +102,12 @@ nav a:hover {
     color:#c06;
 }
 
+/*-----IMAGES-----*/
 
+img {
+    display:block;
+    margin: 4em auto;
+    padding:0;
+    max-width:100%;
+}
 
