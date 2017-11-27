@@ -9,6 +9,8 @@ John Baskerville
 - [John Baskerville 03 - Linking Within the Page](https://sarahcupples.github.io/john_baskerville/baskerville3.html)
 - [John Baskerville 04 - Adding Tables](https://sarahcupples.github.io/john_baskerville/baskerville4.html)
 - [John Baskerville 05 - Adding Images](https://sarahcupples.github.io/john_baskerville/baskerville5.html)
+- [John Baskerville 05 - Adding CSS](https://sarahcupples.github.io/john_baskerville/baskerville6.html)
+- [John Baskerville 05 - CSS Document](https://sarahcupples.github.io/john_baskerville/style.css)
 
 
 
