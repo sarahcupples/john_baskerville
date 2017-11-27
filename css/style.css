@@ -111,3 +111,15 @@ img {
     max-width:100%;
 }
 
+/*-----FOOTER-----*/
+
+footer {
+    text-align: center;
+    font-size: .75em;
+    line-height: 1.5em;
+    padding-bottom: 2em:
+}
+
+footer hr {
+    margin: 3em 0;
+}
