@@ -51,10 +51,21 @@ h2 {
     /*--border-bottom-color: #c06 dotted 1px;--*/
 }
 
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color:#777;
+}
+
+blockquote cite {
+    font-size: .75em;
+}
+
 /*-----LINKS-----*/
 
 a {
-    color: #c06;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -88,5 +99,8 @@ nav ul li {
 
 nav a:hover {
     border-bottom: none;
-    color:#fff;
+    color:#c06;
 }
+
+
+
