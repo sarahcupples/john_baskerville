@@ -123,3 +123,7 @@ footer {
 footer hr {
     margin-bottom: 3em 0;
 }
+
+footer p {
+    margin-top:2em;
+}
