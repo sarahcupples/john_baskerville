@@ -19,10 +19,10 @@ History of Type
 ---------------
 
 - [History of Type 01 - Markup](https://sarahcupples.github.io/john_baskerville/type.html)
-- [List of Typefaces 02 - Markup](https://sarahcupples.github.io/john_baskerville/list.html)
-- [Table of Typefaces 03 - Markup](https://sarahcupples.github.io/john_baskerville/table2.html)
-- [Adding CSS 04 - Markup](https://sarahcupples.github.io/john_baskerville/type2.html)
-- [CSS Document 05 - Markup](https://sarahcupples.github.io/john_baskerville/type.css)
+- [List of Typefaces 02 - Adding Lists](https://sarahcupples.github.io/john_baskerville/list.html)
+- [Table of Typefaces 03 - Turning Lists into Tables](https://sarahcupples.github.io/john_baskerville/table2.html)
+- [Adding CSS 04 - Adding CSS](https://sarahcupples.github.io/john_baskerville/type2.html)
+- [CSS Document 05 - CSS Document](https://sarahcupples.github.io/john_baskerville/type.css)
 
 
 
