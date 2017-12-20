@@ -21,7 +21,7 @@ History of Type
 - [History of Type 01 - Markup](https://sarahcupples.github.io/john_baskerville/type.html)
 - [List of Typefaces 02 - Adding Lists](https://sarahcupples.github.io/john_baskerville/typelist.html)
 - [History of Type 03 - Linking Within The Page](https://sarahcupples.github.io/john_baskerville/typelinks.html)
-- [Table of Typefaces 04 - Turning Lists into Tables](https://sarahcupples.github.io/john_baskerville/table2.html)
+- [Table of Typefaces 04 - Turning Lists into Tables](https://sarahcupples.github.io/john_baskerville/typetable.html)
 - [Adding CSS 05 - Adding CSS](https://sarahcupples.github.io/john_baskerville/type2.html)
 - [CSS Document 05 - CSS Document](https://sarahcupples.github.io/john_baskerville/type.css)
 
