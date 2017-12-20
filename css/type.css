@@ -9,7 +9,7 @@
 body {
     width: 75%;
     max-width: 600px;
-    font-family: 'Libre Baskerville', Baskerville, 'Times New Roman', serif;
+    font-family: 'Libre Baskerville', 'Baskerville', 'Times New Roman', serif;
     margin: auto;
     background: #ffffff;
     color: #29354E;
@@ -33,6 +33,10 @@ h1, h2, h3 {
 }
 
 /*-----TYPOGRAPHY-----*/
+
+p {
+    font-family: 'Baskerville', 'Times New Roman', serif;
+}
 
 p, li, blockquote {
     margin-bottom: 1.5em;
