@@ -24,6 +24,7 @@ History of Type
 - [History of Type 03 - Linking Within The Page](https://sarahcupples.github.io/john_baskerville/typelinks.html)
 - [History of Type 04 - Turning Lists into Tables](https://sarahcupples.github.io/john_baskerville/typetable.html)
 - [History of Type 05 - Adding CSS](https://sarahcupples.github.io/john_baskerville/type2.html)
+- [History of Type 05 - Adding Google Fonts](https://sarahcupples.github.io/john_baskerville/type2.html)
 - [History of Type - CSS Document](https://sarahcupples.github.io/john_baskerville/type.css)
 
 
