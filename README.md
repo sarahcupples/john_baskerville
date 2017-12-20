@@ -10,7 +10,8 @@ John Baskerville
 - [John Baskerville 04 - Adding Tables](https://sarahcupples.github.io/john_baskerville/baskerville4.html)
 - [John Baskerville 05 - Adding Images](https://sarahcupples.github.io/john_baskerville/baskerville5.html)
 - [John Baskerville 06 - Adding CSS](https://sarahcupples.github.io/john_baskerville/baskerville6.html)
-- [John Baskerville 06 - CSS Document](https://sarahcupples.github.io/john_baskerville/style.css)
+- [John Baskerville 07 - Adding Google Fonts](https://sarahcupples.github.io/john_baskerville/baskerville7.html)
+- [John Baskerville - CSS Document](https://sarahcupples.github.io/john_baskerville/style.css)
 
 
 
