@@ -65,6 +65,19 @@ blockquote cite {
     font-size: .75em;
 }
 
+blockquote p {
+    hanging-punctuation: first;
+    text-indent: -0.5em; /*Change according to your font*/
+}
+
+.kern {
+    letter-spacing: -5px;
+}
+
+.amp {
+    font-size:2em;
+}
+
 /*-----LINKS-----*/
 
 a {
@@ -129,4 +142,36 @@ footer hr {
 
 footer p {
     margin-top:2em;
+}
+
+/*TABLE*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+padding: .6em;
+}
+
+table, td {
+    background: #BFBEBB;
+    border: 1px solid #fff;
 }
