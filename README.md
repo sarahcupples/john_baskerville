@@ -12,6 +12,7 @@ John Baskerville
 - [John Baskerville 06 - Adding CSS](https://sarahcupples.github.io/john_baskerville/baskerville6.html)
 - [John Baskerville 07 - Adding Google Fonts](https://sarahcupples.github.io/john_baskerville/baskerville7.html)
 - [John Baskerville 08 - Type Exercise](https://sarahcupples.github.io/john_baskerville/baskexercise.html)
+- [John Baskerville 09 - Type Exercise](https://sarahcupples.github.io/john_baskerville/baskerville8.html)
 
 
 
