@@ -7,8 +7,8 @@
 }
 
 body {
-    width: 75%;
-    max-width: 600px;
+    width: 95%;
+    max-width: 950px;
     font-family: 'Libre Baskerville', serif;
     background: #f0f0f0;
     color: #333;
@@ -175,3 +175,61 @@ table, td {
     background: #BFBEBB;
     border: 1px solid #fff;
 }
+
+
+/* MEDIA QUERIES */
+
+/* mobile*/
+@media (max-width: 35em) {
+    body {
+        margin: auto 0;
+        width: 100%;
+        font-size: 110%;
+    }
+   
+    table {
+        font-size: 90%;
+    }
+    
+    article {
+        width: 90%;
+    }
+    
+    h1 {
+        font-size: 3em;
+        line-height: 1.3em;
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+    
+    blockquote {
+        font-size: 95%;
+    }
+    
+  
+    footer p {
+        font-size: 80%;
+    }
+    
+    li {
+        font-size: 0.9em
+    }
+    
+  
+    
+/* tablet*/
+@media (max-width: 50em) {
+    body {
+        width: 85%;
+    }
+    
+    article {
+        width: 95%;
+        padding: 0.5em;
+    }
+    
+
+
+
