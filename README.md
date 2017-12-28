@@ -13,6 +13,7 @@ John Baskerville
 - [John Baskerville 07 - Adding Google Fonts](https://sarahcupples.github.io/john_baskerville/baskerville7.html)
 - [John Baskerville - CSS Document](https://sarahcupples.github.io/john_baskerville/style.css)
 
+- [John Baskerville 08 - Type Exercise](https://sarahcupples.github.io/john_baskerville/baskexercise.html)
 
 
 
