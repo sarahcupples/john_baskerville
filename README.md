@@ -11,8 +11,7 @@ John Baskerville
 - [John Baskerville 05 - Adding Images](https://sarahcupples.github.io/john_baskerville/baskerville5.html)
 - [John Baskerville 06 - Adding CSS](https://sarahcupples.github.io/john_baskerville/baskerville6.html)
 - [John Baskerville 07 - Adding Google Fonts](https://sarahcupples.github.io/john_baskerville/baskerville7.html)
-- [John Baskerville 08 - Type Exercise](https://sarahcupples.github.io/john_baskerville/baskexercise.html)
-- [John Baskerville 09 - Testing Typekit](https://sarahcupples.github.io/john_baskerville/baskerville8.html)
+- [John Baskerville 08 - Testing Flexbox](https://sarahcupples.github.io/john_baskerville/baskerville8.html)
 
 
 
@@ -27,4 +26,6 @@ History of Type
 - [History of Type 06 - Adding Google Fonts](https://sarahcupples.github.io/john_baskerville/type3.html)
 
 
-
+Type Exercise
+----------------
+- [John Baskerville - Type Exercise](https://sarahcupples.github.io/john_baskerville/baskexercise.html)
